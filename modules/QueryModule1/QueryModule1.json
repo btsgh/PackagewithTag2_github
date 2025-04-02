@@ -1,0 +1,15 @@
+{
+  "gitSyncId": "67ecd7b0f929400ab949c30f_9aaf515c-064f-45a9-9388-b268aa46d6d8",
+  "moduleUUID": "a71963b2-d9bf-4ce5-90b0-0c46872aaa88",
+  "type": "QUERY_MODULE",
+  "unpublishedModule": {
+    "inputsForm": [
+      {
+        "children": [],
+        "id": "emoeccbott",
+        "sectionName": ""
+      }
+    ],
+    "name": "QueryModule1"
+  }
+}
